@@ -1,0 +1,6 @@
+tensorflow==2.14.0          # For deep learning, CNNs, and model training
+scikit-learn==1.3.0         # For classification report (precision, recall, F1-score)
+Pillow==9.4.0               # For image processing with PIL (used for uploaded images)
+opencv-python-headless==4.8.0.74  # For image processing (used in image preprocessing)
+streamlit==1.25.0           # For web app interface
+keras-tuner==1.3.5          # For hyperparameter tuning (RandomSearch)
